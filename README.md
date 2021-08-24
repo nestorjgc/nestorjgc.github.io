@@ -14,6 +14,8 @@ A front end JavaScript application where I show a portfolio of my projects and i
 ## Live Demo:  https://nestorjgc.github.io/PortafolioWebsite/index.html
 
 ## Features
+  - User can see the portfolio of projects.
+  - User have access to admin information/resume.
 
 ## Preview
 
