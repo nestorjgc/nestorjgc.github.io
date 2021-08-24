@@ -17,4 +17,4 @@ A front end JavaScript application where I show a portfolio of my projects and i
 
 ## Preview
 
-![Alt Text](https://github.com/nestorjgc/To-Do-List/blob/main/imgs/To-do-Gifff.gif)
+![Alt Text](https://github.com/nestorjgc/PortafolioWebsite/blob/main/imgs/Portafolio-gif.gif)
