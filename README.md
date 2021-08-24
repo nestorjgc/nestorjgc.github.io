@@ -17,4 +17,5 @@ A front end JavaScript application where I show a portfolio of my projects and i
 
 ## Preview
 
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github.com/nestorjgc/PortafolioWebsite/blob/main/imgs/Portafolio-gif.gif" width="1102" height="644">
+![Alt Text](https://github.com/nestorjgc/Snow-React/blob/gh-pages/imgs/gif123.gif)
+
